@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Mori's library
+- project: Mori's library
+  role: Tech leader & Engine Programmer
+  duration: Oct, 2023 &mdash July, 2024; 
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: A casual game was developed using C++ and OpenGL as part of a team of four. I created a custom game engine in C++ and enhanced the game's visuals with various shaders implemented in GLSL.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Simple graphic project
+  duration: Oct, 2023 &mdash July, 2024; 
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: While learning OpenGL, I implemented and tested various concepts such as Vector, Camera Frustum, Mesh, Texture, Affine Matrix, Model, Shadow, Curve, and Noise.
+
+# Springfield Community Outreach Group
+- project: Ladder chess
+  duration: Oct, 2020 &mdash Dec, 2020; 
+  # url: "#"
+  description: Simple puzzle game was developed C++ using library "doodle". The original game design was developed with a friend during high school
